@@ -1,2 +1,2 @@
-# xmind
-record xmind
+# diagrams
+record diagrams
